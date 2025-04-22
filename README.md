@@ -1,4 +1,4 @@
-
+![Dockerized_flask_application](https://github.com/user-attachments/assets/7a3a37d9-3aaf-4208-b89d-245c99c07b9e)
 # 🐳 Dockerize Python Flask Application
 
 This project demonstrates how to Dockerize a simple **Python Flask** application, providing an isolated and reproducible environment that runs seamlessly across different systems. Docker helps eliminate dependency conflicts, making deployment and scaling effortless.
@@ -210,8 +210,8 @@ curl localhost:5000
 ```bash
 $ curl localhost:5000
 Hello from Flask inside Docker!
-![output](image.png)
 ```
+![Dockerized_flask_application](https://github.com/user-attachments/assets/e88a0141-b627-47de-96e1-9882b53212bd)
 
 ---
 
